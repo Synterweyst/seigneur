@@ -1,0 +1,14 @@
+C:\Users\GRIGS\source\repos\xowchat\xowchat\bin\Release\xowchat.exe.config
+C:\Users\GRIGS\source\repos\xowchat\xowchat\bin\Release\xowchat.exe
+C:\Users\GRIGS\source\repos\xowchat\xowchat\bin\Release\xowchat.pdb
+C:\Users\GRIGS\source\repos\xowchat\xowchat\obj\Release\xowchat.csproj.AssemblyReference.cache
+C:\Users\GRIGS\source\repos\xowchat\xowchat\obj\Release\xowchat.Form1.resources
+C:\Users\GRIGS\source\repos\xowchat\xowchat\obj\Release\xowchat.Properties.Resources.resources
+C:\Users\GRIGS\source\repos\xowchat\xowchat\obj\Release\xowchat.csproj.GenerateResource.cache
+C:\Users\GRIGS\source\repos\xowchat\xowchat\obj\Release\xowchat.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\xowchat\xowchat\obj\Release\xowchat.exe
+C:\Users\GRIGS\source\repos\xowchat\xowchat\obj\Release\xowchat.pdb
+C:\Users\GRIGS\source\repos\xowchat\xowchat\bin\Release\Bunifu_UI_v1.5.3.dll
+C:\Users\GRIGS\source\repos\xowchat\xowchat\obj\Release\xowchat.csproj.CopyComplete
+C:\Users\GRIGS\source\repos\xowchat\xowchat\bin\Release\Transitions.dll
+C:\Users\GRIGS\source\repos\xowchat\xowchat\bin\Release\Transitions.pdb

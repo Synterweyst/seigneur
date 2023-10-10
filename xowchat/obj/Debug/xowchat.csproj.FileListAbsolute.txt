@@ -1,0 +1,10 @@
+C:\Users\GRIGS\source\repos\xowchat\xowchat\bin\Debug\xowchat.exe.config
+C:\Users\GRIGS\source\repos\xowchat\xowchat\bin\Debug\xowchat.exe
+C:\Users\GRIGS\source\repos\xowchat\xowchat\bin\Debug\xowchat.pdb
+C:\Users\GRIGS\source\repos\xowchat\xowchat\obj\Debug\xowchat.csproj.AssemblyReference.cache
+C:\Users\GRIGS\source\repos\xowchat\xowchat\obj\Debug\xowchat.Form1.resources
+C:\Users\GRIGS\source\repos\xowchat\xowchat\obj\Debug\xowchat.Properties.Resources.resources
+C:\Users\GRIGS\source\repos\xowchat\xowchat\obj\Debug\xowchat.csproj.GenerateResource.cache
+C:\Users\GRIGS\source\repos\xowchat\xowchat\obj\Debug\xowchat.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\xowchat\xowchat\obj\Debug\xowchat.exe
+C:\Users\GRIGS\source\repos\xowchat\xowchat\obj\Debug\xowchat.pdb
